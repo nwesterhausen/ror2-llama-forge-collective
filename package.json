@@ -1,0 +1,19 @@
+{
+  "name": "llamaforgecollective-modpack",
+  "version": "1.0.0",
+  "description": "RoR2 Modpack for LFC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nwesterhausen/ror2-llama-forge-collective.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nwesterhausen/ror2-llama-forge-collective/issues"
+  },
+  "homepage": "https://github.com/nwesterhausen/ror2-llama-forge-collective#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean": "^0.4.0",
+    "gulp-zip": "^5.1.0"
+  }
+}
