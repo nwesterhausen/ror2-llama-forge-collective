@@ -1,7 +1,7 @@
 {
   "name": "LlamaForgeCollective_modpack",
   "description": "A modpack for the Llama Forge Collective",
-  "version_number": "1.0.0",
+  "version_number": "1.1.0",
   "website_url": "https://github.com/nwesterhausen/ror2-llama-forge-collective",
   "dependencies": [
     "bbepis-BepInExPack-5.4.9",
@@ -22,7 +22,6 @@
     "KingEnderBrine-ProperSave-2.7.0",
     "KingEnderBrine-LobbyVotesSave-1.2.0",
     "MagnusMagnuson-ScannerPlusOne-2.6.1",
-    "FunkFrog-and-Sipondo-ShareSuite-2.5.1",
     "dan8991iel-LunarCoinShareOnPickup-3.6.1",
     "eyeknow-High_Fashion_with_Acrid-1.0.1",
     "eyeknow-High_Fashion_with_Huntress-1.0.1",
