@@ -1,7 +1,7 @@
 {
   "name": "LlamaForgeCollective_modpack",
   "description": "A modpack for the Llama Forge Collective",
-  "version_number": "1.1.0",
+  "version_number": "1.2.0",
   "website_url": "https://github.com/nwesterhausen/ror2-llama-forge-collective",
   "dependencies": [
     "bbepis-BepInExPack-5.4.9",
@@ -9,7 +9,7 @@
     "RiskofThunder-HookGenPatcher-1.2.1",
     "rob-VoidFieldsQoL-1.0.2",
     "rob-MinerUnearthed-1.5.3",
-    "rob-PaladinMod-1.4.10",
+    "rob-PaladinMod-1.4.11",
     "EnigmaDev-EnigmaticThunder-0.1.5",
     "kinggrinyov-KingModUtilities-1.6.8",
     "XoXFaby-MMHOOK_Standalone-1.0.2",
