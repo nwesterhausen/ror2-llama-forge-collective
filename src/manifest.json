@@ -1,7 +1,7 @@
 {
   "name": "LlamaForgeCollective_modpack",
   "description": "A modpack for the Llama Forge Collective",
-  "version_number": "1.2.0",
+  "version_number": "2.0.0",
   "website_url": "https://github.com/nwesterhausen/ror2-llama-forge-collective",
   "dependencies": [
     "bbepis-BepInExPack-5.4.9",
@@ -37,9 +37,7 @@
     "Moffein-Artifact_of_Conformity-1.0.4",
     "Moffein-Artifact_of_War-1.0.3",
     "KingEnderBrine-ScrollableLobbyUI-1.6.1",
-    "EnforcerGang-Enforcer-3.0.2",
     "NekuSoul-ShopsOnly-2.0.0",
-    "Sniper_Mafia-SniperClassic-0.6.8",
     "Moffein-MobileTurretBuff-1.1.4",
     "Moffein-Bandit_Tweaks-1.1.0",
     "KingEnderBrine-LobbySkinsFix-1.1.1",

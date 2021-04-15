@@ -36,8 +36,6 @@ I set it up initially with the following things:
 ### Added Characters
 
 - Miner (from RoR1)
-- Enforcer (from RoR1)
-- Sniper (from RoR1)
 - Paladin (custom but thematic and balanced)
 
 ### Added Skins
