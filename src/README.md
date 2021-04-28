@@ -15,7 +15,6 @@ Adds some extra survivors and QOL tweaks.
 - Chat message when you die
 - Lunar Coins are shared on pickup
 - Legendary chests in multiplayer drop item for each player
-- Partial metamorphosis artifact: Metamorphosis artifact can be enabled for only some players in multiplayer
 
 ### Added Artifacts
 
@@ -25,6 +24,4 @@ Adds some extra survivors and QOL tweaks.
 
 ### Added Characters
 
-- Miner (from RoR1)
-- Paladin (custom but thematic and balanced)
 - Some extra skins for various characters

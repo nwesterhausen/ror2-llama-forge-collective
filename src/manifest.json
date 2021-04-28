@@ -1,7 +1,7 @@
 {
   "name": "LlamaForgeCollective_modpack",
   "description": "A modpack for the Llama Forge Collective",
-  "version_number": "4.0.0",
+  "version_number": "4.0.1",
   "website_url": "https://github.com/nwesterhausen/ror2-llama-forge-collective",
   "dependencies": [
     "bbepis-BepInExPack-5.4.9",
@@ -14,7 +14,7 @@
     "12GaugeAwayFromFace-Artificer_Academic_Skin-1.0.3",
     "TheRealElysium-EmptyChestsBeGone-1.1.1",
     "DestroyedClone-GoldChestForAll-1.0.0",
-    "XoXFaby-BetterUI-2.0.4",
+    "XoXFaby-BetterUI-2.1.1",
     "XoXFaby-BetterGameplay-1.1.0",
     "ontrigger-ItemStatsMod-2.2.1",
     "KingEnderBrine-ProperSave-2.7.0",
@@ -33,6 +33,6 @@
     "NekuSoul-ShopsOnly-2.0.0",
     "KingEnderBrine-LobbySkinsFix-1.1.1",
     "kinggrinyov-AutoSkipIntroCutscene-1.0.2",
-    "NotTsunami-ShowDeathCause-1.0.4"
+    "NotTsunami-ShowDeathCause-1.0.5"
   ]
 }
