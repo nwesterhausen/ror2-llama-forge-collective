@@ -25,3 +25,9 @@ Adds some extra survivors and QOL tweaks.
 ### Added Characters
 
 - Some extra skins for various characters
+- Goku
+- Miner
+- Paladin
+- Sniper
+- Tracer
+- Enforcer
