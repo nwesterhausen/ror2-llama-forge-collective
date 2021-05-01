@@ -1,7 +1,7 @@
 {
   "name": "LlamaForgeCollective_modpack",
   "description": "A modpack for the Llama Forge Collective",
-  "version_number": "6.0.0",
+  "version_number": "6.1.0",
   "website_url": "https://github.com/nwesterhausen/ror2-llama-forge-collective",
   "dependencies": [
 	"bbepis-BepInExPack-5.4.9",
@@ -25,7 +25,6 @@
 	"Sniper_Mafia-SniperClassic-0.6.8",
 	"rob-PaladinMod-1.4.14",
 	"rob-MinerUnearthed-1.5.3",
-	"kinggrinyov-Goku-2.10.2",
 	"KingEnderBrine-ScrollableLobbyUI-1.6.2",
 	"EnforcerGang-Enforcer-3.0.3",
 	"Liamono-Fem_Paladin-1.2.0",

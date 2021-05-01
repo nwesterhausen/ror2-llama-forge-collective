@@ -23,7 +23,6 @@ Adds some extra survivors and QOL tweaks.
 
 ### Added Characters
 
-- Goku
 - Miner
 - Paladin
 - Sniper
