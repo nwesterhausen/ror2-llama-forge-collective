@@ -8,9 +8,8 @@ Adds some extra survivors and QOL tweaks.
 
 - Detailed item descriptions (see exactly what an item does)
 - Item stats (see the total value from your stack of items on hover)
-- View your current stats (when pressing tab)
 - Game lobby remembers what settings you used previously
-- Empty chests disappear after 30s
+- Empty chests disappear after 10s
 - Chat messages when using the scanner equipment
 - Chat message when you die
 - Lunar Coins are shared on pickup
@@ -24,10 +23,8 @@ Adds some extra survivors and QOL tweaks.
 
 ### Added Characters
 
-- Some extra skins for various characters
 - Goku
 - Miner
 - Paladin
 - Sniper
-- Tracer
 - Enforcer
